@@ -58,7 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+            "ext": "https://xuan.codered.cloud/tv/altoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
             "key": "csp_XYQHikerAL",
@@ -89,7 +89,7 @@
         "简介": "剧情：&&</div>",
         "搜索url": "http://www.214728327.xyz:56708/index.php/vodsearch/-------------.html?wd={wd}",
         "分类url": "http://www.214728327.xyz:56708/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}/page/{catePg}.html;;阿里",
-        "阿里token": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+        "阿里token": "https://xuan.codered.cloud/tv/altoken.txt",
         "分类": "电影$1#剧集$2#综艺$4#动漫$3#短剧$5#音乐$6"
       }
     },
@@ -103,17 +103,6 @@
       "filterable": 1,
       "jar": "./jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
       "ext": "./lib/gg.json"
-    },
-    {
-            "key": "csp_XYQHikerAL",
-            "name": "玩偶┃HK",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/xyq.jar",
-            "ext": "./lib/玩偶哥哥.json"
     },
     {
       "key": "Gitcafe",
