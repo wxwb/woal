@@ -26,6 +26,17 @@
      "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
     },
     {
+			"key": "csp_KungFu404",
+			"name":"💠┃阿里┃登录",
+			"type": 3, 
+			"api": "csp_KungFu404", 
+			"ext":"https://xuan.codered.cloud/tv/altoken.txt",
+			"searchable":1,
+			"filterable": 0, 
+			"changeable":0,
+			"jar":"/jar/alibaba.jar"
+	  	},
+    {
      "key": "csp_KungFu404",
      "name":"🎦阿狸设置",
      "type": 3, 
