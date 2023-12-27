@@ -21,9 +21,9 @@
 "sites":[
     {
      "key":"DB",
-     "name":"🌎涛哥阿里玩偶高清影视",
+     "name":"🌎豆瓣|玩偶哥哥影视",
      "type":3,
-     "api":"./lib/drpy.min.js","ext":"./lib/豆瓣.js"
+     "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
     },
     {
      "key": "csp_KungFu404",
