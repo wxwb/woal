@@ -23,7 +23,8 @@
      "key":"DB",
      "name":"🌎涛哥出品|玩偶哥哥高清影视",
      "type":3,
-     "api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"
+     "api":"./JS/drpy.min.js",
+     "ext":"./JS/豆瓣.js"
     },
     {
 			"key": "csp_KungFu404",
